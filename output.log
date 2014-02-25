@@ -1,0 +1,84 @@
+server load: 1.623046875
+INSERT INTO sample_table (`name`) VALUES ('New name 414')
+server load: 6.21728515625
+INSERT INTO sample_table (`name`) VALUES ('New name 519'seserver load: 13.48681640625
+INSERT INTO sample_table (`name`) VALUES ('New name 636')sserver load: 13.48681640625
+INSERT INTO sample_table (`name`) VALUES ('New name 744')sserver load: 12.72705078125
+INSERT INTO sample_table (`name`) VALUES ('New name 848')sserver load: 19.15478515625
+INSERT INTO sample_table (`name`) VALUES ('New name 954')sserver load: 19.15478515625
+INSERT INTO sample_table (`name`) VALUES ('New name 1068')sserver load: 22.02490234375
+INSERT INTO sample_table (`name`) VALUES ('New name 1186')sserver load: 28.5888671875
+INSERT INTO sample_table (`name`) VALUES ('New name 1274serserver load: 28.5888671875
+INSERT INTO sample_table (`name`) VALUES ('New name 1381serserver load: 31.10400390625
+INSERT INTO sample_table (`name`) VALUES ('New name 1487')sserver load: 35.81982421875
+INSERT INTO sample_table (`name`) VALUES ('New name 1607')sserver load: 35.81982421875
+INSERT INTO sample_table (`name`) VALUES ('New name 171sersserver load: 37.595703125
+INSERT INTO sample_table (`name`) VALUES ('New name 1792'seserver load: 37.595703125
+INSERT INTO sample_table (`name`) VALUES ('New name 1888'seserver load: 42.9130859375
+INSERT INTO sample_table (`name`) VALUES ('New name 1989'seserver load: 45.162109375
+INSERT INTO sample_table (`name`) VALUES ('New name 2084')ssserver load: 45.162109375
+INSERT INTO sample_table (`name`) VALUES ('New name 2190'seserver load: 48.91259765625
+INSERT INTO sample_table (`name`) VALUES ('New name 2294'seserver load: 51.48193359375
+INSERT INTO sample_table (`name`) VALUES ('New name 2408'seserver load: 51.48193359375
+INSERT INTO sample_table (`name`) VALUES ('New name 2521'seserver load: 55.12646484375
+INSERT INTO sample_table (`name`) VALUES ('New name 2639'server load: 57.9189453125
+INSERT INTO sample_table (`name`) VALUES ('New name 2742')
+server load: 57.9189453125
+INSERT INTO sample_table (`name`) VALUES ('New name 2859')
+server load: 59.44677734375
+INSERT INTO sample_table (`name`) VALUES ('New name 2953')
+server load: 62.21337890625
+INSERT INTO sample_table (`name`) VALUES ('New name 3048')
+server load: 62.21337890625
+INSERT INTO sample_table (`name`) VALUES ('New name 3159')
+server load: 63.3173828125
+INSERT INTO sample_table (`name`) VALUES ('New name 3255')
+server load: 63.3173828125
+INSERT INTO sample_table (`name`) VALUES ('New name 3352')
+server load: 64.49267578125
+INSERT INTO sample_table (`name`) VALUES ('New name 3448')
+server load: 64.49267578125
+INSERT INTO sample_table (`name`) VALUES ('New name 3557')
+server load: 65.814453125
+INSERT INTO sample_table (`name`) VALUES ('New name 3653')
+server load: 65.814453125
+INSERT INTO sample_table (`name`) VALUES ('New name 3745')
+)
+server load: 64.9482421875
+INSERT INTO sample_table (`name`) VALUES ('New name 3817')
+server load: 64.9482421875
+INSERT INTO sample_table (`name`) VALUES ('New name 3893')
+server load: 65.1123046875
+INSERT INTO sample_table (`name`) VALUES ('New name 3974')
+server load: 65.1123046875
+INSERT INTO sample_table (`name`) VALUES ('New name 4048')
+server load: 65.50341796875
+INSERT INTO sample_table (`name`) VALUES ('New name 4131')
+server load: 65.50341796875
+INSERT INTO sample_table (`name`) VALUES ('New name 4210')
+server load: 64.90234375
+INSERT INTO sample_table (`name`) VALUES ('New name 4287')
+server load: 65.55078125
+INSERT INTO sample_table (`name`) VALUES ('New name 4368')
+server load: 65.55078125
+INSERT INTO sample_table (`name`) VALUES ('New name 4448')
+server load: 65.82666015625
+INSERT INTO sample_table (`name`) VALUES ('New name 4528serserver load: 65.82666015625
+INSERT INTO sample_table (`name`) VALUES ('New name 4606sseserver load: 64.71923828125
+INSERT INTO sample_table (`name`) VALUES ('New name 4687serserver load: 64.71923828125
+INSERT INTO sample_table (`name`) VALUES ('New name 4768serserver load: 63.22021484375
+INSERT INTO sample_table (`name`) VALUES ('New name 4846sseserver load: 63.22021484375
+INSERT INTO sample_table (`name`) VALUES ('New name 4919serserver load: 63.2822265625
+INSERT INTO sample_table (`name`) VALUES ('New name 4996'seserver load: 63.2822265625
+INSERT INTO sample_table (`name`) VALUES ('New name 5055sseserver load: 63.2822265625
+INSERT INTO sample_table (`name`) VALUES ('New name 5119'seserver load: 61.57763671875
+INSERT INTO sample_table (`name`) VALUES ('New name 51sssseserver load: 61.57763671875
+INSERT INTO sample_table (`name`) VALUES ('New name 52sssseserver load: 61.57763671875
+INSERT INTO sample_table (`name`) VALUES ('New name 52sssserver load: 58.80859375
+INSERT INTO sample_table (`name`) VALUES ('New name 5354')ssserver load: 58.80859375
+INSERT INTO sample_table (`name`) VALUES ('New name 5379')
+)server load: 58.80859375
+INSERT INTO sample_table (`name`) VALUES ('New name 5381')
+')
+erver load: 58.80859375
+INSERT INTO sample_table (`name`) VALUES ('New name 5373')

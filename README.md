@@ -3,9 +3,11 @@ php_parallel_process
 
 A set of php and linux bash script to process php code in parallel.
 
-Best use case:
+Best use case and features:
 
 - Process images without exceeding your server resources. It will keep on spawning processes but will stop executing php script once server exceeds 80% server load.
+
+- This code includes detecting of cpu cores for mac and linux. 
 
 
 Usage:

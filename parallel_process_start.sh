@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 PROCESS_THREADS=${1-3}
 
